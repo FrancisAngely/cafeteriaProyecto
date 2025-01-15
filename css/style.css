@@ -27,9 +27,20 @@
 /*
 1. General
 **********************************************************************/
+/*
+#271408:Usado para textos y encabezados.
+#8b5e3c: Utilizado para fondos y botones.
+#ffbd5a: Fondo y elementos.
+#d6a965: Hover y énfasis.
+#3e3e3e: Texto secundario.
+#595959: Texto terciario.
+#f9f4ed: Fondo claro.
+*/
+
+
 body {
     font-family:'Roboto', sans-serif;
-    color: #ffbd5a;
+    color: #271408;
     line-height:1.2em;
     font-size:17px;
     line-height:20px;
@@ -355,7 +366,7 @@ p {
 }
 .section .title > p {
     font-size: 20px;
-    color: #ffbd5a;
+    color: #271408;
     font-weight: lighter;
 }
 .primary-section {
@@ -365,13 +376,13 @@ p {
     border-top: 40px solid #d6a965;
 }
 .primary-section .title {
-    border-bottom: 1px solid #ffbd5a;
+    border-bottom: 1px solid #271408;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
     color: #d6a965;
 }
 .primary-section h1 {
-    color:#ffbd5a;
+    color:#271408;
 }
 .secondary-section {
     background:#d6a965;
@@ -516,7 +527,7 @@ p {
 }
 .skills li {
     margin-bottom:30px;
-    background:#ffbd5a;
+    background:#271408;
     height:40px;
     padding:1px;
 }
@@ -679,7 +690,7 @@ p {
     margin: 0 0 0 20px;
 }
 .newsletter .button-sp:hover, .newsletter .button-sp:active {
-    background-color:#ffbd5a;
+    background-color:#271408;
     color:#d6a965;
 }
 
@@ -690,7 +701,7 @@ p {
     background: #d6a965;
 }
 .contact h1, .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
-    color: #ffbd5a;
+    color: #271408;
 }
 .contact textarea, .contact input[type="text"], .contact input[type="email"] {
     padding: 10px;
