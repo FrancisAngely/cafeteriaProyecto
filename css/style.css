@@ -72,8 +72,8 @@ p {
     box-shadow: none;
 }
 .navbar .brand img {
-    width:120px;
-    height:40px;
+    width: 132px;
+    height: 116px;
 }
 .navbar .nav > li > a {
     text-transform:uppercase;
@@ -220,7 +220,7 @@ p {
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
     background-color:#271408;
-    color:#271408;
+    color:#ffcb82;
 }
 .button-sp:hover, .button-sp:active {
     background-color:#271408;
@@ -229,7 +229,7 @@ p {
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
     background-color:#271408;
-    color:#271408;
+    color:#ffcb82;
 }
 .button-ps:hover, .button-ps:active {
     background-color:#271408;
@@ -308,6 +308,10 @@ p {
 .thumbnail:hover .mask {
     top:0;
 }
+
+.tamanoimg{
+    height: 467px;
+}
 /*
 2.4 Socail icons
 ************/
@@ -382,6 +386,7 @@ p {
 .secondary-section h1, .secondary-section .title p {
     color: #271408;
 }
+
 /* Third section use bacground image */
 .third-section {
     padding-bottom: 70px;
@@ -527,7 +532,7 @@ p {
     margin:0;
     left: 10px;
     z-index: 1;
-    color: #271408;
+    /* color: #271408; */
 }
 .skills li .bar {
     height:40px;
@@ -564,10 +569,15 @@ p {
     background:#271408;
 }
 .testimonial p {
-    color:#271408;
-    background:#271408;
+       background:#271408;
     padding:15px;
     margin:0;
+ 
+}
+.testi{
+    color: #e7c99c;
+
+
 }
 .testimonial .arrow {
     margin-left:10px;
@@ -624,7 +634,7 @@ p {
     background-color:#271408;
     text-transform:uppercase;
     text-align: center;
-    color:#271408;
+    color:#ffcb82;
     padding:40px 0px;
     font-size: 36px;
     margin-top:0px;
@@ -681,6 +691,10 @@ p {
 .newsletter .button-sp:hover, .newsletter .button-sp:active {
     background-color:#271408;
     color:#271408;
+}
+.titulo2news{
+    color:#ffcb82;
+
 }
 
 /*
@@ -781,6 +795,11 @@ p {
     text-align:center;
     font-size:22px;
 }
+.contacto{
+    color:#271408;
+
+
+}
 .info-mail {
     border:1px solid white;
     width:60%;
@@ -791,6 +810,7 @@ p {
 .black {
     color:#271408;
 }
+
 /*
 3.8 Footer
 ********************************************************************/
