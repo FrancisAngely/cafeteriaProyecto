@@ -35,7 +35,7 @@ body {
     line-height:20px;
 }
 a {
-    color:#271408;
+    color:#ffcb82;
     text-decoration: none;
 }
 a:hover {
@@ -502,7 +502,8 @@ p {
     margin-top:20%;
 }
 .team .thumbnail .mask, .team .thumbnail .mask h3, .team .thumbnail .mask p, .team .thumbnail:hover h3, .team .thumbnail:hover .social a:hover {
-    color:#181A17;
+    color:#f5af4b;
+    font: bold 20px;
 }
 .about-text {
     margin-top:30px;
@@ -819,12 +820,12 @@ p {
     text-align: center;
 }
 .footer > p {
-    color: #fff;
+    color: #e7c99c;
     margin:0;
 }
 
 .footer a{
-    color:#271408;
+    color:#e7c99c;
 }
 
 .footer a:hover, .footer a:focus{

@@ -31,12 +31,13 @@
 }
 
 .bx-wrapper img {
-	width:200px;
-    text-align:center;
+	width: 192px;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-	display: block;
-    opacity:1;
+    display: block;
+    opacity: 1;
+    height: 203px;
     
 }
 
