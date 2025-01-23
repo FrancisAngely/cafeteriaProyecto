@@ -35,8 +35,12 @@ body {
     line-height:20px;
 }
 a {
+<<<<<<< HEAD
     color:#271408;
     color: #e7c99c;
+=======
+    color:#ffcb82;
+>>>>>>> 23ecc2dd7f984c1af9e186d43ceaa1c5ae55c9ff
     text-decoration: none;
 }
 a:hover {
@@ -503,7 +507,12 @@ p {
     margin-top:20%;
 }
 .team .thumbnail .mask, .team .thumbnail .mask h3, .team .thumbnail .mask p, .team .thumbnail:hover h3, .team .thumbnail:hover .social a:hover {
+<<<<<<< HEAD
     color:#e7c99c;
+=======
+    color:#f5af4b;
+    font: bold 20px;
+>>>>>>> 23ecc2dd7f984c1af9e186d43ceaa1c5ae55c9ff
 }
 .about-text {
     margin-top:30px;
@@ -825,12 +834,16 @@ height: 300px;}
     text-align: center;
 }
 .footer > p {
-    color: #fff;
+    color: #e7c99c;
     margin:0;
 }
 
 .footer a{
+<<<<<<< HEAD
     color:#fff;
+=======
+    color:#e7c99c;
+>>>>>>> 23ecc2dd7f984c1af9e186d43ceaa1c5ae55c9ff
 }
 
 .footer a:hover, .footer a:focus{
