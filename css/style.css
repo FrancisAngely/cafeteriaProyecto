@@ -35,12 +35,7 @@ body {
     line-height:20px;
 }
 a {
-<<<<<<< HEAD
-    color:#271408;
-    color: #e7c99c;
-=======
     color:#ffcb82;
->>>>>>> 23ecc2dd7f984c1af9e186d43ceaa1c5ae55c9ff
     text-decoration: none;
 }
 a:hover {
@@ -253,7 +248,7 @@ p {
     border-radius:0;
     box-shadow:none;
     text-align:center;
-    background: #271408;
+    background: #595959;
 }
 .thumbnail .more {
     display:block;
@@ -507,12 +502,8 @@ p {
     margin-top:20%;
 }
 .team .thumbnail .mask, .team .thumbnail .mask h3, .team .thumbnail .mask p, .team .thumbnail:hover h3, .team .thumbnail:hover .social a:hover {
-<<<<<<< HEAD
-    color:#e7c99c;
-=======
     color:#f5af4b;
     font: bold 20px;
->>>>>>> 23ecc2dd7f984c1af9e186d43ceaa1c5ae55c9ff
 }
 .about-text {
     margin-top:30px;
@@ -531,7 +522,7 @@ p {
 }
 .skills li {
     margin-bottom:30px;
-    background:#e7c99c;
+    background:#271408;
     height:40px;
     padding:1px;
 }
@@ -548,12 +539,7 @@ p {
     height:40px;
     position:absolute;
     background-color: #271408;
-    
 }
-
-.habilidades{
-width: 500px;
-height: 300px;}
 /*
 3.4 Clients
 **********************************************************************/
@@ -606,8 +592,8 @@ height: 300px;}
 }
 .testimonial .whopic img {
     margin-top:10px;
-   width: 118px;
-    height: 135px;
+    width:50px;
+    height:50px;
     float:left;
 }
 .testimonial .whopic strong {
@@ -839,11 +825,7 @@ height: 300px;}
 }
 
 .footer a{
-<<<<<<< HEAD
-    color:#fff;
-=======
     color:#e7c99c;
->>>>>>> 23ecc2dd7f984c1af9e186d43ceaa1c5ae55c9ff
 }
 
 .footer a:hover, .footer a:focus{
