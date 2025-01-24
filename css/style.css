@@ -313,9 +313,6 @@ p {
     top:0;
 }
 
-.tamanoimg{
-    height: 467px;
-}
 /*
 2.4 Socail icons
 ************/
@@ -375,20 +372,28 @@ p {
 .primary-section .title {
     border-bottom: 1px solid #271408;
 }
-.primary-section, .primary-section .title p, .primary-section h3 {
-    color: #f5af4b;
+.colortitle{
+    color: #e8b261;
 }
+
+.colorp{
+    color: #e7c99c;
+}
+/* .primary-section, .primary-section .title p, .primary-section h3 {
+    color: #a5670e;
+} */
 .primary-section h1 {
     color:#ffbd5a;
 }
 .secondary-section {
-    background:#ffcb82;
+    background:#d6a965;
 }
 .secondary-section .title {
     border-bottom: 1px solid #271408;
 }
 .secondary-section h1, .secondary-section .title p {
-    color: #271408;
+    color: #e7c99c;
+
 }
 
 /* Third section use bacground image */
@@ -460,7 +465,7 @@ p {
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
-    color:#271408;
+    color:#e7c99c;
 }
 .project-info {
     font-weight:100;
@@ -526,7 +531,7 @@ p {
 }
 .skills li {
     margin-bottom:30px;
-    background:#e7c99c;
+    background:#271408;
     height:40px;
     padding:1px;
 }
@@ -542,7 +547,7 @@ p {
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #271408;
+    background-color: #e7c99c;
 }
 /*
 3.4 Clients
