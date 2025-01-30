@@ -180,7 +180,7 @@ p {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #271408;
+    border-top: 30px solid #9f673c;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
@@ -395,12 +395,15 @@ p {
     color: #e7c99c;
 
 }
+    .titlecolor{
+        color: #271408;
+    }
 
 /* Third section use bacground image */
 .third-section {
     padding-bottom: 70px;
     background: #271408 url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #271408;
+    border-top:1px solid #271408;
 }
 .third-section .container {
     padding-top:20px;
@@ -472,7 +475,7 @@ p {
     padding:10px 0;
 }
 .project-info span {
-    width: 80px;
+    width: 101px;
     display: inline-block;
 }
 .project-info div {
@@ -676,6 +679,19 @@ p {
     color: #271408;
     font-weight:normal;
 }
+    .color1{
+    color: #271408;
+    }
+
+ .color2{
+color: #f5af4b;
+    
+    }
+
+
+
+
+
 /*
 3.6 Newsletter
 ********************************************************************/
