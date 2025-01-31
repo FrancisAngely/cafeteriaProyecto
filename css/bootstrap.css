@@ -237,7 +237,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #005580;
+  color: #ffcb82;
   text-decoration: underline;
 }
 
@@ -264,8 +264,7 @@ a:focus {
 }
 
 .row {
-  margin-left: -20px;
-  *zoom: 1;
+  zoom: 1;
 }
 
 .row:before,
