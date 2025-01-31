@@ -76,7 +76,7 @@
 
 .da-slide h2,
 .da-slide h4{
-    color: #181A1C;
+    /* color: #181A1C; */
     text-transform:uppercase;
       white-space: nowrap;
     z-index: 10;
@@ -133,12 +133,12 @@
     width:50px;
     height:3px;
     margin:0 5px 0 0;
-    background:#fff;
+    background:#271408;
     cursor: pointer;
     position: relative;
 }
 .da-dots span.da-dots-current {
-   background:#29383F;
+   background:#ffbd5a;
 }
 .da-arrows {
     -moz-user-select: none;

@@ -86,12 +86,12 @@ p {
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
-    color: #fff;
+    color: #d3af7c;;
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     border: 1px solid #271408;
-    color: #fff;
+    color: #cb9140;
     background-color: #271408;
     transition: border-color 1s ease;
 }
@@ -402,7 +402,7 @@ p {
 /* Third section use bacground image */
 .third-section {
     padding-bottom: 70px;
-    background: #271408 url(../images/brand-bg.png) no-repeat center;
+    background: #271408 url(../images/brand-bg.png) repeat-x center;
     border-top:1px solid #271408;
 }
 .third-section .container {
